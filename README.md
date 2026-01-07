@@ -1,6 +1,6 @@
 
 
-# 🌌 **Lumina **
+# 🌌 Lumina 
 
 Lumina is a modern, intuitive web application that allows users to **search songs, videos, and images** in any language, manage their media library, track history, and generate custom AI-driven images or videos through the **AI Creative Studio**.
 
@@ -71,7 +71,7 @@ Includes a **Refresh Page** button to apply changes instantly.
 
 ### 📚 Library Page
 
-![Library](./2026-01-07%20\(2\).png)
+![Library](https://github.com/roshini9825-source/lumina/blob/87e498eeb97fb6d1f508b3e41303fb1227a96d6d/library.png)
 
 ### 🕒 History Page
 

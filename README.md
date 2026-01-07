@@ -79,7 +79,7 @@ Includes a **Refresh Page** button to apply changes instantly.
 
 ### ⚙️ Settings Page
 
-![Settings](./2026-01-07%20\(4\).png)
+![Settings](https://github.com/roshini9825-source/lumina/blob/624a26d767f2357c1b9a562ea2aea70e960ee5a1/settings.png)
 
 ---
 
@@ -90,7 +90,7 @@ Includes a **Refresh Page** button to apply changes instantly.
 | Frontend         | HTML, CSS, JavaScript                  |
 | UI Theme         | Dark Modern UI                         |
 | Deployment       | Replit                                 |
-| Additional Tools | Custom UI Components, AI Prompt System |
+
 
 ---
 

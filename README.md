@@ -1,6 +1,6 @@
 
 
-# 🌌 **Lumina – AI Media Discovery & Creative Studio**
+# 🌌 **Lumina **
 
 Lumina is a modern, intuitive web application that allows users to **search songs, videos, and images** in any language, manage their media library, track history, and generate custom AI-driven images or videos through the **AI Creative Studio**.
 
@@ -67,7 +67,7 @@ Includes a **Refresh Page** button to apply changes instantly.
 
 ### 🔍 Discover Page
 
-![Discover](./f1e6a596-8bd6-4c82-b811-6b09c33a1aed.png)
+![Discover](https://github.com/roshini9825-source/lumina/blob/45a54540d96f958f41dcd304002e5e270f022316/discover.png)
 
 ### 📚 Library Page
 

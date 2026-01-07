@@ -63,7 +63,6 @@ Includes a **Refresh Page** button to apply changes instantly.
 
 ---
 
-## 🖼 **Screenshots**
 
 ### 🔍 Discover Page
 

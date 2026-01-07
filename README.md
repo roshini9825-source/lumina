@@ -75,7 +75,7 @@ Includes a **Refresh Page** button to apply changes instantly.
 
 ### 🕒 History Page
 
-![History](./2026-01-07%20\(3\).png)
+![History](https://github.com/roshini9825-source/lumina/blob/ae921094c31fe050e901b59b801f4ec2a03c71bf/history.png)
 
 ### ⚙️ Settings Page
 
